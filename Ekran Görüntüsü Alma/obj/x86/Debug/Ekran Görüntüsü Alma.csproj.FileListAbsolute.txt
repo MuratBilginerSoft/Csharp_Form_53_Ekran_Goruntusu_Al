@@ -1,0 +1,14 @@
+C:\Users\Murat Bilginer\Desktop\KBRMRT\5 C#\Ekran Görüntüsü Alma\Ekran Görüntüsü Alma\obj\x86\Debug\Ekran_Görüntüsü_Alma.Form1.resources
+C:\Users\Murat Bilginer\Desktop\KBRMRT\5 C#\Ekran Görüntüsü Alma\Ekran Görüntüsü Alma\obj\x86\Debug\Ekran_Görüntüsü_Alma.Properties.Resources.resources
+C:\Users\Murat Bilginer\Desktop\KBRMRT\5 C#\Ekran Görüntüsü Alma\Ekran Görüntüsü Alma\obj\x86\Debug\Ekran Görüntüsü Alma.csproj.GenerateResource.Cache
+C:\Users\Murat Bilginer\Desktop\KBRMRT\5 C#\Ekran Görüntüsü Alma\Ekran Görüntüsü Alma\bin\Debug\Ekran Görüntüsü Alma.exe
+C:\Users\Murat Bilginer\Desktop\KBRMRT\5 C#\Ekran Görüntüsü Alma\Ekran Görüntüsü Alma\bin\Debug\Ekran Görüntüsü Alma.pdb
+C:\Users\Murat Bilginer\Desktop\KBRMRT\5 C#\Ekran Görüntüsü Alma\Ekran Görüntüsü Alma\obj\x86\Debug\Ekran Görüntüsü Alma.exe
+C:\Users\Murat Bilginer\Desktop\KBRMRT\5 C#\Ekran Görüntüsü Alma\Ekran Görüntüsü Alma\obj\x86\Debug\Ekran Görüntüsü Alma.pdb
+E:\04 - Yazılım\04 - Form Projeleri\54 Ss Al V1.0\Ekran Görüntüsü Alma\obj\x86\Debug\Ekran Görüntüsü Alma.exe
+E:\04 - Yazılım\04 - Form Projeleri\54 Ss Al V1.0\Ekran Görüntüsü Alma\obj\x86\Debug\Ekran Görüntüsü Alma.pdb
+E:\04 - Yazılım\04 - Form Projeleri\54 Ss Al V1.0\Ekran Görüntüsü Alma\bin\Debug\Ekran Görüntüsü Alma.exe
+E:\04 - Yazılım\04 - Form Projeleri\54 Ss Al V1.0\Ekran Görüntüsü Alma\bin\Debug\Ekran Görüntüsü Alma.pdb
+E:\04 - Yazılım\04 - Form Projeleri\54 Ss Al V1.0\Ekran Görüntüsü Alma\obj\x86\Debug\Ekran_Görüntüsü_Alma.Form1.resources
+E:\04 - Yazılım\04 - Form Projeleri\54 Ss Al V1.0\Ekran Görüntüsü Alma\obj\x86\Debug\Ekran_Görüntüsü_Alma.Properties.Resources.resources
+E:\04 - Yazılım\04 - Form Projeleri\54 Ss Al V1.0\Ekran Görüntüsü Alma\obj\x86\Debug\Ekran Görüntüsü Alma.csproj.GenerateResource.Cache
